@@ -1,3 +1,2 @@
 Hello from Notepad
-Hello again from notepad
 Let's see this through!
